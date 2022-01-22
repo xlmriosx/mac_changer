@@ -16,7 +16,7 @@ Where:
 
 `python` is compiler.
 
-`mac-changer.py` is name's file.
+`mac-changer.py` is name's file, in this case name's file is main.py.
 
 `-i` references to interface.
 
